@@ -15,7 +15,12 @@
       <a href='https://scholar.google.com/citations?user=wn9hc6UAAAAJ&hl=zh-CN' style='text-decoration: none' >Yansheng Li</a><sup></sup>&emsp;      
       <div align="center">
       <a href='https://arxiv.org/abs/2501.13898'><img src='https://img.shields.io/badge/arXiv-2501.09720-brown.svg?logo=arxiv&logoColor=white'></a>
+      <a href='https://link.springer.com/article/10.1007/s11263-025-02486-4'><img src='https://img.shields.io/badge/IJCV-Published-blue.svg?logo=springer&logoColor=white'></a>
 	  </div>
+    <p align='center'>
+        🎉 Our paper has been officially accepted and published in the <strong>International Journal of Computer Vision (IJCV)</strong>!<br>
+        <a href="https://link.springer.com/article/10.1007/s11263-025-02486-4">[Click here to read the official version]</a>
+    </p>
     <p align='center'>
         If you find our work helpful, please consider giving us a ⭐!
     </p>
