@@ -89,10 +89,12 @@ RSAR
 If you find this work helpful, please consider to cite:
 ```
 @article{zhang2025pointobb,
-   title     = {PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection},
-   author     = {Zhang, Peiyuan and Luo, Junwei and Yang, Xue and Yu, Yi and Li, Qingyun and Zhou, Yue and Jia, Xiaosong and Lu, Xudong and Chen, Jingdong and Li, Xiang and others},
-   journal    = {arXiv preprint arXiv:2501.13898},
-   year       = {2025}
+  title={Pointobb-v3: Expanding performance boundaries of single point-supervised oriented object detection},
+  author={Zhang, Peiyuan and Luo, Junwei and Yang, Xue and Yu, Yi and Li, Qingyun and Zhou, Yue and Jia, Xiaosong and Lu, Xudong and Chen, Jingdong and Li, Xiang and others},
+  journal={International Journal of Computer Vision},
+  pages={1--21},
+  year={2025},
+  publisher={Springer}
 }
 ```
 ```
@@ -107,7 +109,7 @@ If you find this work helpful, please consider to cite:
 
 -----
 
-Special thanks to the codebase contributors of MMRotate and P2BNet!
+Special thanks to the codebase contributors of MMRotate!
 ```
 @inproceedings{zhou2022mmrotate,
   title   = {MMRotate: A Rotated Object Detection Benchmark using PyTorch},
@@ -116,14 +118,5 @@ Special thanks to the codebase contributors of MMRotate and P2BNet!
              Zhang, Wenwei and Chen, Kai},
   booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
   year={2022}
-}
-```
-
-```
-@inproceedings{P2BNet,
-  title     = {Point-to-Box Network for Accurate Object Detection via Single Point Supervision},
-  author    = {Pengfei Chen, Xuehui Yu, Xumeng Han, Najmul Hassan, Kai Wang, Jiachen Li, Jian Zhao, Humphrey Shi, Zhenjun Han, and Qixiang Ye},
-  booktitle = {ECCV},
-  year      = {2022}
 }
 ```
