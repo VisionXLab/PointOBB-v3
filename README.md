@@ -29,6 +29,8 @@
 
 The paper is available at [PointOBB-v3](https://arxiv.org/abs/2501.13898). You are also welcome to check out the conference version [PointOBB](https://openaccess.thecvf.com/content/CVPR2024/html/Luo_PointOBB_Learning_Oriented_Object_Detection_via_Single_Point_Supervision_CVPR_2024_paper.html).
 
+Another related work from our group is [PointOBB-v2](https://github.com/VisionXLab/PointOBB-v2), which explores a different technical route and may also be of interest.
+
 **📌 Note: This branch contains the code for the end-to-end version. For the two-stage version, please refer to [`two-stage`](https://github.com/VisionXLab/PointOBB-v3/tree/two_stage) branch.**
 
 <img width="989" alt="image" src="https://github.com/user-attachments/assets/e320a8ce-6c98-438b-9b92-0c922536b5ab" />
@@ -120,3 +122,4 @@ Special thanks to the codebase contributors of MMRotate!
   year={2022}
 }
 ```
+
